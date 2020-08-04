@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Aug 4, 2020',
-  name: 'Aissyah'
+  birthdate: 'Aug 14, 2020',
+  name: 'Aissyah Nabila Anjani'
 };
 
 function hideEverything() {
